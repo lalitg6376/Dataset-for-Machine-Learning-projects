@@ -5,13 +5,21 @@ The dataset that you find out in this repository will be unclearned.you have use
 
 ## Types of datasets that you will find in this repository:-
 it may be career recommendation 
+
 it may be medical/healthcare
+
 it may be filtering spam 
+
 it may be house price/real estate 
+
 it may be finance/banking
+
 it may be E-commerce/business
+
 it may be images/computer vision
+
 it may be weather
+
 etc.....
 
 ## source:(https://www.kaggle.com)

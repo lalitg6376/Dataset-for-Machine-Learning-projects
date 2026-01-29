@@ -26,7 +26,11 @@ etc.....
 
 ## usages
 Data analysis
+
 Machine Learning pratice
+
 Academic projects
+
 Personal training
+
 etc....

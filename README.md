@@ -34,3 +34,5 @@ Academic projects
 Personal training
 
 etc....
+
+This datasets are from kaagle. here you can easily search dataset for your ML projects.
